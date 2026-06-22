@@ -1,16 +1,88 @@
-# React + Vite
+# Job Finder UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive Job Finder UI built using React and CSS. This project displays job openings from top tech companies using reusable card components and dynamic rendering.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://job-finder-ui.netlify.app
 
-## React Compiler
+## GitHub Repository
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+https://github.com/Riya15s/job-card-ui
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Responsive job listing interface
+- Reusable React components
+- Dynamic rendering using map()
+- Company logos
+- Job type and experience tags
+- Salary and location information
+- Clean and modern UI
+
+## Technologies Used
+
+- React
+- JavaScript (ES6+)
+- CSS3
+- Vite
+- Lucide React Icons
+- Git & GitHub
+
+## Project Structure
+
+```text
+src/
+├── components/
+│   └── Card.jsx
+├── App.jsx
+├── main.jsx
+└── index.css
+```
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Riya15s/job-card-ui.git
+```
+
+Navigate to the project:
+
+```bash
+cd job-card-ui
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+## What I Learned
+
+- React Components
+- Props
+- Arrays of Objects
+- map() for dynamic rendering
+- Responsive layouts using Flexbox
+- Git and GitHub workflow
+
+## Future Improvements
+
+- Search functionality
+- Job filtering
+- Dark mode
+- Apply form modal
+- Backend integration with API
+
+## Author
+
+Riya Jagriti
