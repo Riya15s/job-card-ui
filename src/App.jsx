@@ -12,7 +12,7 @@ const App = () => {
     post:"i0S Developer",
     tag1: "Full Time",
     tag2: "Senior Level",
-    salary: "$120/hr",
+    salary: "120/hr",
     location: "Mumbai, India"
   },
   {
@@ -22,7 +22,7 @@ const App = () => {
      post:"Machine Learning Developer",
     tag1: "Full Time",
     tag2: "Junior Level",
-    salary: "$95/hr",
+    salary: "95/hr",
     location: "Bangalore, India"
   },
   {
@@ -32,7 +32,7 @@ const App = () => {
      post:"AI Research Engineer",
     tag1: "Part Time",
     tag2: "Senior Level",
-    salary: "$135/hr",
+    salary: "135/hr",
     location: "Hyderabad, India"
   },
   {
@@ -42,7 +42,7 @@ const App = () => {
      post:"Software Engineer",
     tag1: "Full Time",
     tag2: "Senior Level",
-    salary: "$145/hr",
+    salary: "145/hr",
     location: "Pune, India"
   },
   {
@@ -52,7 +52,7 @@ const App = () => {
      post:"GPU programmer",
     tag1: "Contract",
     tag2: "Mid Level",
-    salary: "$110/hr",
+    salary: "110/hr",
     location: "Mumbai, India"
   },
 
@@ -63,7 +63,7 @@ const App = () => {
      post:"Database Administrator",
     tag1: "Full Time",
     tag2: "Mid Level",
-    salary: "$115/hr",
+    salary: "115/hr",
     location: "Gurugram, India"
   },
   {
@@ -73,7 +73,7 @@ const App = () => {
      post:" Developer",
     tag1: "Hybrid",
     tag2: "Senior Level",
-    salary: "$125/hr",
+    salary: "125/hr",
     location: "Bangalore, India"
   },
   {
@@ -83,7 +83,7 @@ const App = () => {
      post:"i0S Developer",
     tag1: "Full Time",
     tag2: "Junior Level",
-    salary: "$100/hr",
+    salary: "100/hr",
     location: "Chennai, India"
   }
 ];
